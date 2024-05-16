@@ -1,0 +1,8 @@
+public class newResp{
+public void doAdd(){
+integer a=19;
+integer b=39;
+integer c=a+b;
+System.debug(c);
+}
+}
